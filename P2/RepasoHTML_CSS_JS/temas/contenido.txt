@@ -1,3 +1,0 @@
-HyperText Markup Languaje es el lenguaje estandar utilizado para crear y estructurar paginas web.No es un lenguaje de programacion, sino un lenguaje de marcado, lo que signifca que su principal funcopn es organizar y definir el contenido de una pagian web.
-
-    
